@@ -1,6 +1,5 @@
 # Wildlife Tracker project
-
-## This application helps Game Wardens to track wildlife in a Game Park, Reserve or Conservancy and share the location with other wardens.
+This application helps Game Wardens to track wildlife in a Game Park, Reserve or Conservancy and share the location with other wardens.
 
 ## Author
 Martin Muchira
@@ -26,7 +25,7 @@ Here is a run through of how to set up the application
 * Step 2 : Run the main Java application.
 
 
-## Technologies Used
+## Technologies
 * Java
 * Spark
 * Gradle
